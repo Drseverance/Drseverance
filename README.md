@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Drseverance
+- 👋 Hi, I’m Dustin!
 - 👀 I’m interested in Software Development.  
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on anything to  gain more experience.
