@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Drseverance
+- 👋 Hi, I’m Drseverance
 - 👀 I’m interested in Software Development.  
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on anything to  gain more experience.
-- 📫 How to reach me ...
+- 📫 How to reach me drseverance07@gmail.com
 
 <!---
 Drseverance/Drseverance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
