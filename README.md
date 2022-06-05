@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dustin!
 - 👀 I’m interested in Software Development.  
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently studying Software Engineering.
 - 💞️ I’m looking to collaborate on anything to  gain more experience.
 - 📫 How to reach me drseverance07@gmail.com
 
